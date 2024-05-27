@@ -31,9 +31,5 @@ esquerdo.addEventListener("click", function(){
 
         del.addEventListener("click", ()=>{ modelo1.removeChild(item)})
 
-    }else{
-        alert("Já está com os detalhes ")
     }
-
-
 })
